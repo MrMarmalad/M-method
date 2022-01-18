@@ -1,0 +1,21 @@
+﻿  elem.cpp
+  Source.cpp
+C:\Users\donyu\OneDrive\Рабочий стол\Полина\NewL4\NewL4\Source.cpp(97,34): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\donyu\OneDrive\Рабочий стол\Полина\NewL4\NewL4\Source.cpp(111,34): warning C4267: аргумент: преобразование из "size_t" в "_Ty"; возможна потеря данных
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\donyu\OneDrive\Рабочий стол\Полина\NewL4\NewL4\Source.cpp(112,49): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\donyu\OneDrive\Рабочий стол\Полина\NewL4\NewL4\Source.cpp(113,39): warning C4267: аргумент: преобразование из "size_t" в "_Ty"; возможна потеря данных
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\donyu\OneDrive\Рабочий стол\Полина\NewL4\NewL4\Source.cpp(114,44): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\donyu\OneDrive\Рабочий стол\Полина\NewL4\NewL4\Source.cpp(145,33): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\donyu\OneDrive\Рабочий стол\Полина\NewL4\NewL4\Source.cpp(285,24): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\donyu\OneDrive\Рабочий стол\Полина\NewL4\NewL4\Source.cpp(301,24): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\donyu\OneDrive\Рабочий стол\Полина\NewL4\NewL4\Source.cpp(368,46): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  Создание кода...
+  NewL4.vcxproj -> C:\Users\donyu\OneDrive\Рабочий стол\Полина\NewL4\x64\Debug\NewL4.exe
